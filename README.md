@@ -129,7 +129,8 @@ df = spark.read.csv("crimes.csv", header=True, inferSchema=True)
 
 - Ouvrir le notebook PYSPARK.ipynb
 
-Installer les dépendances :
+*Installer les dépendances :*
 
 !pip install pyspark
+
 !pip install findspark
