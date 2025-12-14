@@ -9,7 +9,7 @@ Les données proviennent du système CLEAR (Citizen Law Enforcement Analysis and
 
 *📊 Dataset officiel :*
 
-👉 https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2
+👉 https://data.cityofchicago.org/Public-Safety/Crimes-2025/t7ek-mgzi/data_preview
 
 *🧠 Objectifs de l’analyse*
 
@@ -58,7 +58,7 @@ Les données ne sont pas incluses dans le dépôt (taille importante).
 
 Télécharger le fichier depuis le site officiel :
 
-https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2
+https://data.cityofchicago.org/Public-Safety/Crimes-2025/t7ek-mgzi/data_preview
 
 Renommer le fichier en crimes.csv
 
