@@ -46,10 +46,15 @@ Nettoyer et préparer un dataset volumineux avec PySpark
 - Google Colab
 
 📂 Structure du projet
+
 📁 Spark/
+
 │
+
 ├── PYSPARK.ipynb        # Notebook principal (analyse complète)
+
 ├── crimes.csv           # Dataset (à télécharger séparément)
+
 └── README.md            # Documentation du projet
 
 *📥 Chargement des données*
